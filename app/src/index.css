@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@100..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Prata&display=swap');
+
+@import "tailwindcss";
+
+@theme {
+    --font-outfit: Outfit;
+    --font-prata: Prata;
+}
+
+
+:root {
+    background-color: oklch(0.827 0.119 306.383);
+}
